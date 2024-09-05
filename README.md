@@ -1,0 +1,1 @@
+to acheve this i first givven two numbers for the code to work on. second i defined what the four opparatouns. later i created a loop that generates the numbers between zero and the result of the addition . lastly i created a opparation that shows the remaining in the division opperation
